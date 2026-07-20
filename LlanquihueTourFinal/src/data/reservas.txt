@@ -1,0 +1,15 @@
+Reserva{idReserva=1, cliente=Magdalena Mollo Sandoval, tour=Volcán Osorno, cantidadPersonas=2, fecha='20/07/2026', total=70000.0}
+Reserva{idReserva=1, cliente=Magdalena Mollo Sandoval, tour=Volcán Osorno, cantidadPersonas=2, fecha='20/07/2026', total=70000.0}
+Reserva{idReserva=1, cliente=Magdalena Mollo Sandoval, tour=Volcán Osorno, cantidadPersonas=2, fecha='20/07/2026', total=70000.0}
+Reserva{idReserva=1, cliente=Magdalena Mollo Sandoval, tour=Volcán Osorno, cantidadPersonas=2, fecha='20/07/2026', total=70000.0}
+Reserva{idReserva=1, cliente=Magdalena Mollo Sandoval, tour=Volcán Osorno, cantidadPersonas=2, fecha='20/07/2026', total=70000.0}
+Reserva{idReserva=1, cliente=Magdalena Mollo Sandoval, tour=Volcán Osorno, cantidadPersonas=2, fecha='20/07/2026', total=70000.0}
+Reserva{idReserva=1, cliente=Magdalena Mollo Sandoval, tour=Volcán Osorno, cantidadPersonas=2, fecha='20/07/2026', total=70000.0}
+Reserva{idReserva=1, cliente=Magdalena Mollo Sandoval, tour=Volcán Osorno, cantidadPersonas=2, fecha='20/07/2026', total=70000.0}
+Reserva{idReserva=1, cliente=Magdalena Mollo Sandoval, tour=Volcán Osorno, cantidadPersonas=2, fecha='20/07/2026', total=70000.0}
+Reserva{idReserva=1, cliente=Magdalena Mollo Sandoval, tour=Volcán Osorno, cantidadPersonas=2, fecha='20/07/2026', total=70000.0}
+Reserva{idReserva=1, cliente=Magdalena Mollo Sandoval, tour=Volcán Osorno, cantidadPersonas=2, fecha='20/07/2026', total=70000.0}
+Reserva{idReserva=1, cliente=Magdalena Mollo Sandoval, tour=Volcán Osorno, cantidadPersonas=2, fecha='20/07/2026', total=70000.0}
+Reserva{idReserva=1, cliente=Magdalena Mollo Sandoval, tour=Volcán Osorno, cantidadPersonas=2, fecha='20/07/2026', total=70000.0}
+Reserva{idReserva=1, cliente=Magdalena Mollo Sandoval, tour=Volcán Osorno, cantidadPersonas=2, fecha='20/07/2026', total=70000.0}
+Reserva{idReserva=1, cliente=Magdalena Mollo Sandoval, tour=Volcán Osorno, cantidadPersonas=2, fecha='20/07/2026', total=70000.0}
